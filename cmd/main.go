@@ -4,7 +4,7 @@ import (
     "log"
 
     "github.com/gofiber/fiber/v2"
-    "github.com.isaeva20/lab-01/internal/handlers"
+    "github.com.isaeva20/lab-01-golang/internal/handlers"
 )
 
 func main() {

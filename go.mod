@@ -1,4 +1,4 @@
-module github.com.isaeva20/lab-01
+module github.com.isaeva20/lab-01-golang
 
 go 1.20
 
